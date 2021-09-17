@@ -1,5 +1,25 @@
 # DevOpsTraining
+Stages of Git 
+Untracked:
+==========
+a. the file exists, but is not part of Git's version control
 
+Modified:
+=========
+a. making some additions to the original files tracked by Git
+
+Staged:
+=======
+a. the file has been added to git's version control but changes have not been committed
+
+Committed at Local Repository:
+==============================
+a. the change has been committed
+
+Push at Remote Repository:
+==========================
+a. Uploading the commits from local Git repository to remote repository
+------------------------------------------------------------------------------------------------
 Difference between Git and GitHub
 Git is a version control system that lets you manage and keep track of your source code history
 GitHub is a cloud-based hosting service that lets you manage Git repositories
