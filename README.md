@@ -1,5 +1,42 @@
 # DevOpsTraining
 
+What are the benefits of Cloud Computing
+1. Reduced IT Costs:
+====================
+a. The cost of system upgrades, new hardware and software may be included in your contract
+b. No longer need to pay wages for expert staff
+c. Energy consumption costs may be reduced
+d. There are fewer time delays
+
+2. Accessibility:
+=================
+a. Can be accessed from anywhere if internet is available
+
+3. Reliability:
+===============
+a. Can always get instantly updated about the changes
+
+4. Scalability:
+===============
+a. Buy resources according to the need
+b. Can scale up the resources bought
+c. Can scale down the resources bought
+
+5. Business Continuity:
+=======================
+a. In case of disaster backup restored
+b. Minimal downtime and loss of productivity
+
+6. Enable Mobility:
+===================
+a. Gives businesses the ability to enable employees to gain access to data and applications from anywhere
+b. Making employees more productive when on the go
+
+7. Access to Automatic Updates:
+===============================
+a. May be included in your service fee
+b. Depending on your cloud computing service provider, your system will regularly be updated with the latest technology
+------------------------------------------------------------------------------------------------
 Define Continuous Integration, Continuous Delivery & Continuous Deployment
 
 Continuous Integration:
